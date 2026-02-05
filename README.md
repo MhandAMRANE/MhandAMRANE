@@ -12,7 +12,6 @@ Je suis un **Data Engineer** passionné par les architectures data modernes, l'i
 - 🔬 Master Systèmes d'Information Avancés – Université Abderrahmane Mira, Béjaïa (2023-2025)
 - ⚙️ Spécialisé en Data Engineering, Machine Learning & BI
 - 🏗️ Passionné par l'ingestion, la transformation, l'orchestration et la qualité des données
-- 📍 Basé à Corte, France
 - 🎯 **Recherche actuellement une alternance en Data Engineering**
 
 ---
