@@ -29,6 +29,8 @@ Je suis un **Data Engineer** passionné par les architectures data modernes, l'i
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
 
 ### 🔧 Data & BI Tools
 ![Pentaho](https://img.shields.io/badge/Pentaho-FF6D00?style=flat-square&logo=pentaho&logoColor=white)
