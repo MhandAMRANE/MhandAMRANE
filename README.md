@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **M'hand Amrane**
-### 🚀 *Data Engineer | AI & Big Data Enthusiast*
+### 🚀 *Data Engineer | AI & Big Data*
 
 Bienvenue sur mon GitHub !  
 Je suis un **Data Engineer** passionné par les architectures data modernes, l'intelligence artificielle, et la création de pipelines fiables et scalables.
