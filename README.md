@@ -72,6 +72,26 @@ Je suis un **Data Engineer** passionné par les architectures data modernes, l'i
 - Cubes **OLAP (iCubE)** pour l'analyse multidimensionnelle
 - Scripts Python avec **Faker** pour la génération de données de test
 
+### 🤖 Dashboard Feedback AI (2025-2026)
+
+Application web intelligente d’analyse de feedbacks clients
+
+Import et traitement de données CSV avec pipeline d’analyse automatisé
+Analyse sémantique avancée via LLM (OpenRouter – Gemini, GPT-4) :
+→ détection des sentiments (positif, négatif, neutre)
+→ extraction automatique des thèmes clés
+🧠 Audit qualité IA (LLM as Judge) :
+→ un second modèle vérifie les résultats
+→ détection des incohérences
+→ génération d’explications détaillées (audit interprétable)
+📊 Visualisation interactive :
+→ graphiques dynamiques (Chart.js)
+→ détection de pics négatifs et alertes
+→ suivi historique des feedbacks
+📄 Export des analyses en PDF / CSV
+⚙️ Architecture complète : Flask + Pandas + SQLite + ReportLab + Docke
+
+
 ### 🤖 **Application web de prédiction** (2024-2025)
 - Système d'aide à la décision basé sur le **Machine Learning**
 - Collecte de données en temps réel via **API** (marché & réseaux sociaux)
