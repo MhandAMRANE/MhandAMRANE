@@ -72,24 +72,24 @@ Je suis un **Data Engineer** passionné par les architectures data modernes, l'i
 - Cubes **OLAP (iCubE)** pour l'analyse multidimensionnelle
 - Scripts Python avec **Faker** pour la génération de données de test
 
-### 🤖 Dashboard Feedback AI (2025-2026)
+### 🤖 **Dashboard Feedback AI** (2025-2026)  
+*Application web intelligente d’analyse de feedbacks clients*
 
-Application web intelligente d’analyse de feedbacks clients
-
-Import et traitement de données CSV avec pipeline d’analyse automatisé
-Analyse sémantique avancée via LLM (OpenRouter – Gemini, GPT-4) :
-→ détection des sentiments (positif, négatif, neutre)
-→ extraction automatique des thèmes clés
-🧠 Audit qualité IA (LLM as Judge) :
-→ un second modèle vérifie les résultats
-→ détection des incohérences
-→ génération d’explications détaillées (audit interprétable)
-📊 Visualisation interactive :
-→ graphiques dynamiques (Chart.js)
-→ détection de pics négatifs et alertes
-→ suivi historique des feedbacks
-📄 Export des analyses en PDF / CSV
-⚙️ Architecture complète : Flask + Pandas + SQLite + ReportLab + Docke
+- Import et traitement de données **CSV** avec pipeline automatisé  
+- Analyse sémantique via **LLM (OpenRouter – Gemini, GPT-4)** :  
+  → détection des sentiments (positif, négatif, neutre)  
+  → extraction des thèmes clés  
+- 🧠 **Audit qualité IA (LLM as Judge)** :  
+  → vérification des résultats par un second modèle  
+  → détection des incohérences  
+  → génération d’explications d’audit  
+- 📊 Visualisation interactive :  
+  → graphiques dynamiques (**Chart.js**)  
+  → alertes sur pics négatifs  
+  → suivi historique  
+- 📄 Export des analyses en **PDF / CSV**  
+- ⚙️ Stack : **Python, Flask, Pandas, SQLite, Chart.js, ReportLab, Docker**
+- 🚀 Pipeline orienté **DataOps** (automatisation & reproductibilité)
 
 
 ### 🤖 **Application web de prédiction** (2024-2025)
